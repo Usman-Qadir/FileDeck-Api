@@ -1,0 +1,6 @@
+@FileDeckApi_HostAddress = http://localhost:5179
+
+GET {{FileDeckApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+﻿# Ignore Visual Studio folder
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# User files
+*.user
+*.rsuser
+*.suo
+
+# Logs
+*.log
+
+# Dotnet secrets / local config
+appsettings.json
+appsettings.Development.json
+
+# Environment files
+.env
+.env.*
+
+# Publish files
+publish/
+
+# Local user-secrets file (local only)
+secrets.json
